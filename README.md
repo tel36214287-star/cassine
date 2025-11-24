@@ -133,11 +133,6 @@ Documentação JavaScript
 
 Divirta-se, explore e aprenda com este caça-níquel virtual!
 
-yaml
-Copiar código
 
----
 
-Se você quiser, posso gerar **uma versão ainda maior e visual**, com **badges do GitHub, links de visualização online e screenshots do jogo**, pronta para colar direto no seu repositório e deixar ele mais profissional.  
 
-Quer que eu faça essa versão “mega README”?
