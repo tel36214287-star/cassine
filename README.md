@@ -1,4 +1,7 @@
 
+https://tel36214287-star.github.io/cassine/
+
+
 # 🎰 Cassino Virtual - Caça-Níquel Interativo
 or
 The slot machine with jackpot, brit until, is possible!
