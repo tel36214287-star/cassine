@@ -1,7 +1,7 @@
 
 # 🎰 Cassino Virtual - Caça-Níquel Interativo
 or
-The slot machine with jackpot, brit until,possible!
+The slot machine with jackpot, brit until, is possible!
 
 Bem-vindo ao **Cassino Virtual**, um projeto de **caça-níquel online** desenvolvido em **HTML, CSS e JavaScript**. Este projeto foi criado **para fins educativos**, permitindo que iniciantes e entusiastas da programação aprendam conceitos de **manipulação de DOM, lógica de jogos e interatividade web**, enquanto se divertem simulando um cassino.
 
